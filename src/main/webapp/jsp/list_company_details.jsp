@@ -60,8 +60,7 @@ System.out.println(companyList);
 				<br> <br> <br> <span>
 
 					<h1 style="text-align: center;">
-						<a href="create_new_company.html"
-							style="text-decoration: none; color: black;">
+						<a href="create_new_company.html" style="text-decoration: none; color: black;"></a>
 							<button type="button" title="Click to add new company details"
 								id="add-button" class="next round">&#43;</button> &nbsp;
 							&nbsp;Add Company Details
